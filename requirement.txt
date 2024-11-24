@@ -1,0 +1,8 @@
+streamlit 
+random
+pandas 
+datetime
+matplotlib.pyplot 
+stripe
+reportlab.lib.pagesizes 
+reportlab.pdfgen 
